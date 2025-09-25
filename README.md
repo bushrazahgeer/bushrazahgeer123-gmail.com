@@ -1,4 +1,5 @@
-# 🥭 Mango Leaf Disease Detection using VGG16 CNN
+---
+# 🥭 **MANGO LEAF DISEASE DETECTION USING VGG16 CNN**
 
 Automated detection of mango leaf diseases using **VGG16 CNN with Transfer Learning**.
 Achieves **97%+ accuracy** across **8 disease categories**, enabling **early detection** for better crop yield.
